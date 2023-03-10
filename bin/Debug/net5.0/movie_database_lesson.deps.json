@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "movie_database_lesson/1.0.0": {
+        "runtime": {
+          "movie_database_lesson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "movie_database_lesson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
